@@ -29,7 +29,7 @@ Before running this project, ensure you have:
 
 1. Clone this repository:
    ```sh
-   git clone https://01.gritlab.ax/git/fvesanen/sortable.git
+   git clone https://github.com/fannielf/sortable.git
    cd sortable
    ```
 2. Open the project in **VS Code.**
